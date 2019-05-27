@@ -1,5 +1,3 @@
-raise "Got here"
-
 module Jekyll
   module Tags
     class LipsumTag < Liquid::Tag
