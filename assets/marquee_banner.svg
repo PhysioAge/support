@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="450" viewBox="0 0 1440 450">
+  <defs>
+    <radialGradient id="a" cy="9.858%" r="242.943%" fx="50%" fy="9.858%" gradientTransform="matrix(0 1 -.31528 0 .531 -.401)">
+      <stop stop-color="#0092C1" offset="0%"/>
+      <stop stop-color="#026787" offset="100%"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1440" height="454" fill="url(#a)"/>
+    <g fill="#FFFFFF" fill-rule="nonzero" opacity=".131" transform="translate(722 -96)">
+      <polygon points="370 70 223.748 70 99 226" opacity=".3"/>
+      <polygon points="552.797 185 382 185 635 438" opacity=".3"/>
+      <polygon points="80.678 526 81 249 32 310.635" opacity=".7"/>
+      <polygon points="0 375.464 80 569 23.324 319"/>
+      <polygon points="111.056 110.157 38 288 212 68" opacity=".55"/>
+      <polygon points="200.192 185 118 438 371 185" opacity=".3"/>
+      <polygon points="656 226 531.252 70 385 70.036" opacity=".3"/>
+      <polygon points="643.083 110.157 541 68 717 288" opacity=".55"/>
+      <polygon points="377.5 192 191 378 564 378" opacity=".55"/>
+      <polygon points="376.982 76 205 176 549 176" opacity=".15"/>
+      <polygon points="89 495 191 184 89 242.346" opacity=".55"/>
+      <polygon points="197 389 376.964 701 557 389" opacity=".7"/>
+      <polygon points="662.424 574.182 664 532 387 733" opacity=".85"/>
+      <polygon points="664 495 664 242.346 562 184" opacity=".55"/>
+      <polygon points="722 310.635 673 249 673 526" opacity=".7"/>
+      <polygon points="729.712 319 673 569 753 375.456"/>
+      <polygon points="643.207 463 382 725 662 520.995" opacity=".7"/>
+      <polygon points="90.612 574.182 366 733 89 532" opacity=".85"/>
+      <polygon points="91 521.003 371 725 109.76 463" opacity=".7"/>
+      <polygon points="568.844 387 380 714 638 456.146" opacity=".7"/>
+      <polygon points="115 456.139 373 714 184.13 387" opacity=".7"/>
+    </g>
+  </g>
+</svg>

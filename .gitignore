@@ -1,4 +1,22 @@
-_site/
-.sass-cache/
+# Sass garbage
+.sass-cache
+
+# Ruby Stuff
+.bundle/
+.ruby-version
+vendor/
+
+# Jekyll stuff
 .jekyll-cache/
 .jekyll-metadata
+
+# Jekyll: Compiled site
+_site
+
+# editor files
+.DS_Store
+*.swp
+*.swo
+*.*~
+.*.swp
+.*.swo
