@@ -3,7 +3,7 @@
 gems:
   - jekyll-sitemap
   - jekyll-paginate
-
+  - jekyll-autolink_email
 
 defaults:
   layout: marquee
