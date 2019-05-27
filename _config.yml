@@ -6,8 +6,10 @@ gems:
   - jekyll-autolink_email
 
 defaults:
-  layout: marquee
-  site_nav: no
+  -
+    values:
+      layout: marquee
+      main_nav: no
 
 exclude:
   - "/vendor/"
