@@ -1,8 +1,7 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-gems:
+plugins:
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-autolink_email
 
 defaults:
@@ -27,13 +26,6 @@ ga_tracking_id: "UA-104207032-5"
 url: "https://support.physioage.com" # the base hostname & protocol for your site
 cover: "/assets/marquee_banner.svg"
 logo: "/assets/logo_physioage.png"
-
-# Build settings
-# markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
-highlightjs_theme: "monokai-sublime"
 
 # # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 # jekyll-archives:
