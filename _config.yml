@@ -1,14 +1,11 @@
-plugins:
-  - jekyll-sitemap
-
-defaults:
-  -
-    values:
-      layout: marquee
-      main_nav: no
-
-exclude:
-  - "/vendor/"
+# defaults:
+#   -
+#     values:
+#       layout: marquee
+#       main_nav: no
+#
+# exclude:
+#   - "/vendor/"
 
 # Site settings
 title: PhysioAge Help
