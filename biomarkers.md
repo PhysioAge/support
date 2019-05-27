@@ -1,6 +1,7 @@
 ---
 title: About Biomarkers
 layout: marquee
+main_nav: yes
 ---
 
 There are six component biomarkers, and one biomarker to rule them all, and in the physiology bind them.

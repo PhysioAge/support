@@ -1,6 +1,6 @@
 ---
-title: Cutometer Testing (Skin Elasticity)
-layout: page
+title: Cutometer Testing
+subtitle: Testing skin elasticity to produce CutoAge
 main_nav: no
 ---
 
