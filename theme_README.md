@@ -117,7 +117,6 @@ A sitemap is also generated using [jekyll-sitemap][sitemap].
 
 ### Syntax Highlighting Settings
 
-Inside of a post, you can enable syntax highlighting with the `{% highlight <language> %}` Liquid tag. For example:
 
 ```
 {% highlight javascript %}
