@@ -69,7 +69,7 @@ pre code.hljs {
   }
 }
 
-.site-header-container, .post-header-container {
+.site-header-container, .page-header-container, .post-header-container {
 	width: 100%;
 	&.has-cover {
 		color: $white;
@@ -188,6 +188,11 @@ pre code.hljs {
     	}
     }
   }
+}
+
+.page-header-container .wrapper {
+  @include outer-container;
+  padding: 0 1em;
 }
 
 /*
@@ -431,8 +436,8 @@ pre code.hljs {
 }
 
 
-article {
-  max-width: 800px;
+.page-content .wrapper {
+  padding-right: 12rem;
 }
 li {
   padding-bottom: 1rem;
