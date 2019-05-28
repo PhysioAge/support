@@ -1,14 +1,14 @@
-# defaults:
-#   -
-#     values:
-#       layout: marquee
-#       main_nav: no
-#
-# exclude:
-#   - "/vendor/"
+defaults:
+  -
+    values:
+      layout: marquee
+      main_nav: no
+
+exclude:
+  - "/vendor/"
 
 # Site settings
-title: PhysioAge Help
+title: PhysioAge Support
 subtitle: "Documentation for the PhysioAge community."
 email: team@physioage.com
 name: PhysioAge Systems

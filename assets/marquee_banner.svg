@@ -6,7 +6,7 @@
     </radialGradient>
   </defs>
   <g fill="none" fill-rule="evenodd">
-    <rect width="1440" height="454" fill="url(#a)"/>
+    <rect width="1440" height="454" fill="#00BCFB"/>
     <g fill="#FFFFFF" fill-rule="nonzero" opacity=".131" transform="translate(722 -96)">
       <polygon points="370 70 223.748 70 99 226" opacity=".3"/>
       <polygon points="552.797 185 382 185 635 438" opacity=".3"/>
