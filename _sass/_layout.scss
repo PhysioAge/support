@@ -361,6 +361,8 @@ pre code.hljs {
 	background-color: #716A4D;
 	background-color: #D8B998;
 	background-color: #B5BAB6; // storm gray
+
+	border-top: 0.2rem $highlight-color solid;
 	color: $white;
 	a {
 	  color: $link-color;
