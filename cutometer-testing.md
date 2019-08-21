@@ -12,10 +12,14 @@ The elasticity of the skin.
 
 The device uses gentle suction to the lift up the skin, then lets it fall and measures how quickly the skin recovers using a laser.
 
+Video
+-----
+
+* [Calibration](https://youtu.be/n8_q7PZpUfQ)
+* [Testing](https://youtu.be/q4h6uL9YoE8)
+
 Procedure
 ---------
-
-[(video)](https://youtu.be/q4h6uL9YoE8)
 
 1. Open the Cutometer software. Make sure the green light on the front of the
 device is illuminated. If not, there may be a problem with the port. See
