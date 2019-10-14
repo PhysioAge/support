@@ -6,10 +6,9 @@ main_nav: no
 
 Contents
 ========
-* [Biomarkers of Aging](biomarkers)
-* [Using Reporting](reporting)
-* [Medical Device Instructions and Troubleshooting](devices)
-* [Billing Questions](billing)
+* [Biomarkers of Aging](content/biomarkers)
+* [Using Reporting](content/reporting)
+* [Medical Device Instructions and Troubleshooting](content/devices)
 
 Contact Us
 ==========
