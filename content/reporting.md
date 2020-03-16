@@ -1,5 +1,6 @@
 ---
 title: Using Reporting
+layout: page
 ---
 
 Integer malesuada ullamcorper nec, iaculis quis, rutrum non, porttitor ut, rutrum non, turpis at pulvinar vulputate, ullamcorper nec, nec bibendum odio risus erat libero tristique tellus, pretium quam turpis at pulvinar vulputate, nec bibendum odio risus iaculis quis, lacinia neque tempus molestie, rutrum non, lacinia neque iaculis quis, augue id magna porttitor ut, metus id velit lacinia neque metus id velit rutrum non, lacinia neque nonummy ac, iaculis quis, consectetuer adipiscing erat libero tristique tellus, sit amet ante.
